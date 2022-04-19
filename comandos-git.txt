@@ -6,7 +6,7 @@ git status
 
 git commit -m ""
 
-git remote origin (link do github)
+git remote add origin (link do github)
 
 git push
 
