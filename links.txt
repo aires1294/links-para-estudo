@@ -1,4 +1,7 @@
+-> GITHUB
 https://www.youtube.com/watch?v=E28J23gCBIs&ab_channel=Rocketseat
 https://www.youtube.com/watch?v=kB5e-gTAl_s&ab_channel=DevAprender
 https://gist.github.com/leocomelli/2545add34e4fec21ec16
-https://www.w3schools.com/html/html5_semantic_elements.asp -> HTML
+https://www.youtube.com/watch?v=DtltWjEnNQI&ab_channel=OProgramadorW
+-> HTML
+https://www.w3schools.com/html/html5_semantic_elements.asp 
