@@ -11,3 +11,9 @@ git remote add origin (link do github)
 git push
 
 git push origin master/main
+
+git pull -> para baixar do github para minha maquina 
+
+git branch -> para ver em qual branch estou
+
+git checkout "aqui coloca o branch por ex master" -> para mudar de branch
