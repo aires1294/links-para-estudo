@@ -9,3 +9,6 @@ https://www.w3schools.com/html/html5_semantic_elements.asp
 -> emprego TI
 1) Mentoria para conseguir emprego presencial/remoto fora do país
 https://tainamotta.com.br/eurostart-2021/ 
+
+-> Como fazer pesquisa
+dicas-de-pesquisa.odt (pasta trybe)
