@@ -18,3 +18,5 @@ git pull -> para baixar do github para minha maquina
 git branch -> para ver em qual branch estou
 
 git checkout "aqui coloca o branch por ex master" -> para mudar de branch
+
+Git log para ver as versões, dai da um git log checkout + 4 primeiros caracteres hash do commit que vc quer voltar, depois disso git add . , git commit e git checkout pra branch que vc tava trabalhando no projeto
