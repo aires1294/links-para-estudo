@@ -24,3 +24,5 @@ Git log para ver as versões, dai da um git log checkout + 4 primeiros caractere
 git branch -D <nome do branch> (para excluir branch)
 
 git branch -a (para ver quais branchs disponiveis)
+
+code . (abre os arquivos no vscode)
