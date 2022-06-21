@@ -26,3 +26,7 @@ git branch -D <nome do branch> (para excluir branch)
 git branch -a (para ver quais branchs disponiveis)
 
 code . (abre os arquivos no vscode)
+
+npm install (sempre q clonar algo da trybe)
+
+npm run cypress:open (para ver o projeto da trybe)
