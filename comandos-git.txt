@@ -30,3 +30,5 @@ code . (abre os arquivos no vscode)
 npm install (sempre q clonar algo da trybe)
 
 npm run cypress:open (para ver o projeto da trybe)
+
+touch (nome do arquivo) -> para criar arquivo
