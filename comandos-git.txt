@@ -32,3 +32,7 @@ npm install (sempre q clonar algo da trybe)
 npm run cypress:open (para ver o projeto da trybe)
 
 touch (nome do arquivo) -> para criar arquivo
+
+git stash (apaga as minhas modifiicacoes da maquina e volta pára a ultima versao do pull)
+
+git pull --rebase (para dar o pull na modificacao da dupla no github e comparar com o seu)
