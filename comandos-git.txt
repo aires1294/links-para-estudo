@@ -38,3 +38,7 @@ git stash (apaga as minhas modifiicacoes da maquina e volta pára a ultima versa
 git pull --rebase (para dar o pull na modificacao da dupla no github e comparar com o seu)
 
 npx eslint script.js --fix e npx eslint style.css --fix (para arrumar erros do lint)
+-----------------------------------------
+Comandos VSCODE
+
+CRTL + D -> para mudar varias palavras ao mesmo tempo
