@@ -42,3 +42,8 @@ npx eslint script.js --fix e npx eslint style.css --fix (para arrumar erros do l
 Comandos VSCODE
 
 CRTL + D -> para mudar varias palavras ao mesmo tempo
+
+-----------------------------------------
+Comandos LINT
+
+npm run lint -- --fix -> para arrumar erros do lint
