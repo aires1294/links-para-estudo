@@ -18,4 +18,6 @@ https://gist.github.com/ANDREHORMAN1994/dbcd4e60b0737a70f819c7dfab4c02b5
 
 -> CHECKLIST do CONTEXT API
 https://gist.github.com/ANDREHORMAN1994/e299f113e3e750276e8da0a8982b59f4
+.Documentacao HOOKS
+https://pt-br.reactjs.org/docs/hooks-reference.html
 
