@@ -12,3 +12,10 @@ https://tainamotta.com.br/eurostart-2021/
 
 -> Como fazer pesquisa
 dicas-de-pesquisa.odt (pasta trybe)
+
+-> CHECKLIST do REDUX
+https://gist.github.com/ANDREHORMAN1994/dbcd4e60b0737a70f819c7dfab4c02b5
+
+-> CHECKLIST do CONTEXT API
+https://gist.github.com/ANDREHORMAN1994/e299f113e3e750276e8da0a8982b59f4
+
