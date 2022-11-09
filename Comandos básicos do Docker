@@ -29,3 +29,4 @@ O conteúdo faz referência à documentação oficial do Docker.
 - docker container ps ou docker container ps -a
 - docker container rm ou docker container rm -f
 - docker container prune
+- docker container --name
