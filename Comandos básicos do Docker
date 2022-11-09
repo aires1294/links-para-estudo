@@ -24,3 +24,8 @@ O conteúdo faz referência à documentação oficial do Docker.
 10) Curiosidade: o comando docker stop envia um pedido educado (chamado internamente de SIGTERM) ao container para que ele tenha tempo de encerrar tudo o que precisa antes de parar sua execução de fato. Entretanto, o comando sleep que estamos utilizando ignora esse pedido educado do Docker. Para que o pedido seja forçado (chamado internamente de SIGKILL), vamos utilizar a flag -t 0
 
 11) Pronto! Conseguimos forçar a paralisação de um contêiner de segundo plano utilizando o comando docker stop.
+
+- docker container run 
+- docker container ps ou docker container ps -a
+- docker container rm ou docker container rm -f
+- docker container prune
