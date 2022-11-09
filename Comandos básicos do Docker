@@ -1,8 +1,26 @@
-1)Docker <comando> <subcomando> <parâmetros> é o formato padrão para comandos não-abreviados no CLI;
+1) Docker <comando> <subcomando> <parâmetros> é o formato padrão para comandos não-abreviados no CLI;
 
-2)Utilize o parâmetro --help no <comando> ou <subcomando> para ter a relação completa do que pode ser 2executado a partir deles;
+2) Utilize o parâmetro --help no <comando> ou <subcomando> para ter a relação completa do que pode ser 2executado a partir deles;
 
 Exemplo: docker container --help ou docker container run --help.
 Os <parâmetros> são opcionais na execução dos comandos;
 
 O conteúdo faz referência à documentação oficial do Docker.
+
+3) Utilize o comando docker ps ou o comando mais novo, o docker container ls, para listar todos os containers em execução neste momento em sua máquina.
+
+4) Utilize o comando docker container run <flags>? <imagem>:<tag> <argumentos>? para executar um container utilizando a imagem identificada pelo <imagem>:<tag>.
+
+5) Ao executar o comando docker ps -a, verificamos que o container foi criado, porém ele já terminou sua execução e ficou com o status Exited
+
+6) Atenção: veja que o Docker atribuiu um nome aleatório para o nosso container. O Docker segue a seguinte regra para dar um nome a um novo container: <adjetivo>_<nome>. Entretanto, podemos utilizar a flag --name <nome-da-sua-escolha> para dar um nome específico ao container criado, em vez de obter um nome aleatório dado pelo Docker
+
+7) Você pode remover os containers exemplificados acima usando o comando docker rm <nome-do-container>
+
+8) Este modo é útil para testar várias imagens Docker sem ficar com uma lista de containers parados. A flag --rm indica para o Docker que desejamos que um container seja removido ao final da sua execução
+
+9) A flag -d ou --detach faz com que a execução do container ocorra em segundo plano, ou seja, embora não esteja visível, o container executará de forma assíncrona. Esta opção é interessante quando o programa a ser executado é um servidor ou algum processo que você sabe previamente que terá uma execução demorada.
+
+10) Curiosidade: o comando docker stop envia um pedido educado (chamado internamente de SIGTERM) ao container para que ele tenha tempo de encerrar tudo o que precisa antes de parar sua execução de fato. Entretanto, o comando sleep que estamos utilizando ignora esse pedido educado do Docker. Para que o pedido seja forçado (chamado internamente de SIGKILL), vamos utilizar a flag -t 0
+
+11) Pronto! Conseguimos forçar a paralisação de um contêiner de segundo plano utilizando o comando docker stop.
