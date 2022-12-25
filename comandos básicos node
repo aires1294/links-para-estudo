@@ -5,3 +5,7 @@ npx eslint --fix (para corrigir erros lint)
 
 LINK PARA PADROES DE COMMIT
 https://github.com/iuricode/padroes-de-commits
+
+Thunder Client VSCODE
+
+kill all node (quando da erro "EADDRINUSE", quando tiver no docker, precisa parar o container)
