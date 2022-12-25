@@ -1,2 +1,4 @@
 npm install readline-sync (modulo que permite ler entradas do usuário escritas no console)
 npm install -D nodemon (reinicializa de forma automatica a aplicacao, toda vez que ocorrer mudança em algum arquivo => biblioteca de desenvolvimento)
+EXPRESS
+npx eslint --fix (para corrigir erros lint)
