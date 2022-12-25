@@ -2,3 +2,6 @@ npm install readline-sync (modulo que permite ler entradas do usuário escritas 
 npm install -D nodemon (reinicializa de forma automatica a aplicacao, toda vez que ocorrer mudança em algum arquivo => biblioteca de desenvolvimento)
 EXPRESS
 npx eslint --fix (para corrigir erros lint)
+
+LINK PARA PADROES DE COMMIT
+https://github.com/iuricode/padroes-de-commits
