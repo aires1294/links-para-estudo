@@ -1,0 +1,1 @@
+killall -9 node => Para resolver: How to fix Error: listen EADDRINUSE while using NodeJS?
